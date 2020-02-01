@@ -18,7 +18,7 @@ ntp                    cs:ntp
 openstack-dashboard    cs:~openstack-charmers-next/openstack-dashboard
 # 276 is the last stable revision of the percona-cluster charm that supports trusty
 #percona-cluster                  cs:percona-cluster-276
-percona-cluster        cs:~gnuoy/percona-cluster-22;channel=unpublished
+percona-cluster        cs:~gnuoy/percona-cluster-24;channel=unpublished
 rabbitmq-server        cs:~openstack-charmers-next/rabbitmq-server
 swift-proxy            cs:~openstack-charmers-next/swift-proxy
 swift-storage-z1       cs:~openstack-charmers-next/swift-storage
